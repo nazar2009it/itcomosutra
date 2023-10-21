@@ -1,0 +1,54 @@
+body{
+    background-image: url('https://cdn.tripster.ru/thumbs2/0fbeccf2-ab9b-11ed-b718-36c17ab82c90.1220x600.jpeg');
+    background-attachment: fixed;
+}
+.menu{
+    background-color: black;
+    margin: 20px;
+}
+.news{
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+.link{
+    text-align: right;
+}
+.style{
+    width: 700px;
+    background-color: white;
+    margin: auto;
+    padding: 20px;
+
+}
+.menu a{
+    color: aliceblue;
+    margin: 0 10px;
+    padding: 5px 10px;
+    display: block;
+}
+.menu a:hover{
+    color: black;
+    background-color: antiquewhite;
+    text-decoration: none;
+}
+.link a:hover{
+    text-decoration: underline;
+}
+.link a{
+    text-decoration: none;
+}
+img{
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+}
+.menu li{
+    float: left;
+}
+.menu ul{
+    list-style: none;
+}
+hr{
+    clear: both;
+}
